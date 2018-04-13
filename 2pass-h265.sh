@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 filename=$1
 
 ffmpeg -y -i ${filename} \

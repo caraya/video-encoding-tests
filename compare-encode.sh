@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
 #
 # Shell script to prepare and encode the videos to go alongside the
 # video codec comparison blog post (insert URL here when published)

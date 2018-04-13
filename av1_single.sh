@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 if [[ $# -ne 2 ]]; then
   echo "Encodes a file using best known settings (slow!)"

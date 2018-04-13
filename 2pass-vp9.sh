@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 # Assign filename to the first parameter
 filename=$1

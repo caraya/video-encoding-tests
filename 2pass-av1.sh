@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 filename=$1
 
 # AV1 Pass 1
